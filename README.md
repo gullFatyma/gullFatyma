@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="150" style="border-radius: 50%;" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gull+%F0%9F%91%8B;Aspiring+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MERN;Building+%40CodeWithGull" alt="Typing SVG" />
 
 </div>
