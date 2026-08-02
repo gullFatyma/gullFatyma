@@ -1,16 +1,153 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gullFatyma/gullFatyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gull+%F0%9F%91%8B;Aspiring+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MERN;Building+%40CodeWithGull" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```kotlin
+class Gull {
+    val role = "CS Student @ University of Gujrat"
+    val focus = "Android Development"
+    val stack = listOf("Kotlin", "Jetpack Compose", "MongoDB", "React", "Node.js")
+    val content = "Teaching Kotlin & Android on CodeWithGull"
+
+    fun currentGoal() = "Ship real Android apps, not just tutorials"
+}
+```
+
+<br>
+
+### 🧠 About Me
+
+- 🎓 BSCS student at **University of Gujrat**, building toward a career as an **Android Developer**
+- 👥 Lead a team at university — handle task delegation and workload distribution
+- ✍️ Run **CodeWithGull** / **GullLearnKotlin** — Kotlin & Android educational content (slides, quizzes, design pattern breakdowns) on LinkedIn & Instagram
+- 🧩 Studying Kotlin deeply: null safety, OOP, sealed/enum classes, generics, SOLID, and design patterns (Factory, Builder, Decorator, Observer, Strategy, State)
+- 🏗️ Comfortable across the stack — Jetpack Compose (Android), MERN (Node/Express/MongoDB/React), MySQL
+- 🎨 Design sensibility: dark, premium, VS Code–styled UI — JetBrains Mono everywhere
+
+<br>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+<br>
+
+### 📱 Featured — Android & Kotlin
+
+<table>
+<tr>
+<td width="50%">
+
+**Calculator App**
+Android calculator built with XML layouts
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Calculator-app)
+
+</td>
+<td width="50%">
+
+**FoodieApp**
+Jetpack Compose food delivery UI — practice build on a Figma design
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/FoodieApp)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Design-Pattern**
+Kotlin design patterns — Factory, Builder, Decorator, Observer, Strategy, State
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Design-Pattern)
+
+</td>
+<td width="50%">
+
+**Solid-Principles**
+SOLID principles implemented in Kotlin
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Solid-Principles)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Kotlin**
+Kotlin language practice & concepts
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Kotlin)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🗂️ Other Projects
+
+| Repo | Description |
+|---|---|
+| [Todo-App--Full-Stack](https://github.com/gullFatyma/Todo-App--Full-Stack) | To-do list app — Node.js/Express backend, MongoDB, frontend (MERN) |
+| [Web-Development-Project](https://github.com/gullFatyma/Web-Development-Project) | Web development project |
+| [Clinical-Database-Management-System](https://github.com/gullFatyma/Clinical-Database-Management-System) | Clinical database management system |
+| [Library-Management-System](https://github.com/gullFatyma/Library-Management-System) | Library management system |
+| [Book-Reading-Tracker-App](https://github.com/gullFatyma/Book-Reading-Tracker-App) | Book reading tracker app |
+
+<br>
+
+### 🌐 Open Source Contribution
+
+[![Repo](https://img.shields.io/badge/hayatian--computing--alumni%2FIndusOS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/hayatian-computing-alumni/IndusOS)
+<br><sub>Contributed to this project (not solely authored)</sub>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gullFatyma&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7F52FF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullFatyma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="30%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gullFatyma&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=7F52FF&currStreakLabel=58A6FF" width="60%" />
+
+</div>
+
+<br>
+
+### 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gull-fatima-bb4659400)
+[![Instagram](https://img.shields.io/badge/CodeWithGull-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgull)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Currently: deep in Kotlin design patterns, prepping for Android developer interviews.</sub>
+</div>
