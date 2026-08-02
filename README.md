@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hi, I'm Gull 👋
-
-**Aspiring Android Developer** · Kotlin · Jetpack Compose · MERN
-Building & teaching via **CodeWithGull** / **GullLearnKotlin**
+<img src="banner.svg" width="100%" />
 
 </div>
 
@@ -37,55 +34,106 @@ Building & teaching via **CodeWithGull** / **GullLearnKotlin**
 
 <br>
 
-### 📱 Featured — Android & Kotlin
+### 🚀 Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Calculator App**
+![Android](https://img.shields.io/badge/ANDROID-7F52FF?style=for-the-badge&logo=android&logoColor=white)
+#### Calculator App
 Android calculator built with XML layouts
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Calculator-app)
+[![View Repo](https://img.shields.io/badge/View_Repo-7F52FF?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Calculator-app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**FoodieApp**
+![Android](https://img.shields.io/badge/ANDROID-7F52FF?style=for-the-badge&logo=android&logoColor=white)
+#### FoodieApp
 Food delivery app UI — Jetpack Compose practice project
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/FoodieApp)
+[![View Repo](https://img.shields.io/badge/View_Repo-7F52FF?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/FoodieApp)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Design-Pattern**
+![Kotlin](https://img.shields.io/badge/KOTLIN-B084F5?style=for-the-badge&logo=kotlin&logoColor=white)
+#### Design-Pattern
 Kotlin design patterns — Factory, Builder, Decorator, Observer, Strategy, State
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Design-Pattern)
+[![View Repo](https://img.shields.io/badge/View_Repo-B084F5?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Design-Pattern)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Solid-Principles**
+![Kotlin](https://img.shields.io/badge/KOTLIN-B084F5?style=for-the-badge&logo=kotlin&logoColor=white)
+#### Solid-Principles
 SOLID principles implemented in Kotlin
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Solid-Principles)
+[![View Repo](https://img.shields.io/badge/View_Repo-B084F5?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Solid-Principles)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Kotlin**
+![Kotlin](https://img.shields.io/badge/KOTLIN-B084F5?style=for-the-badge&logo=kotlin&logoColor=white)
+#### Kotlin
 Kotlin language practice & concepts
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/Kotlin)
+[![View Repo](https://img.shields.io/badge/View_Repo-B084F5?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Kotlin)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+![MERN](https://img.shields.io/badge/MERN_STACK-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Todo-App--Full-Stack
+To-do list app — Node.js/Express backend, MongoDB, frontend
+
+[![View Repo](https://img.shields.io/badge/View_Repo-47A248?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Todo-App--Full-Stack)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![Web](https://img.shields.io/badge/WEB_DEV-58A6FF?style=for-the-badge&logo=html5&logoColor=white)
+#### Web-Development-Project
+Web development project
+
+[![View Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Web-Development-Project)
+
+</td>
+<td width="50%" valign="top">
+
+![Database](https://img.shields.io/badge/DATABASE-FFA657?style=for-the-badge&logo=mysql&logoColor=white)
+#### Clinical-Database-Management-System
+Designed a relational database with normalized tables; SQL queries for CRUD operations, joins, and report generation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-FFA657?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Clinical-Database-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![Database](https://img.shields.io/badge/DATABASE-FFA657?style=for-the-badge&logo=mysql&logoColor=white)
+#### Library-Management-System
+Library management system
+
+[![View Repo](https://img.shields.io/badge/View_Repo-FFA657?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Library-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+![Web](https://img.shields.io/badge/WEB_DEV-58A6FF?style=for-the-badge&logo=html5&logoColor=white)
+#### Book-Reading-Tracker-App
+Book reading tracker app
+
+[![View Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/Book-Reading-Tracker-App)
 
 </td>
 </tr>
@@ -93,22 +141,12 @@ Kotlin language practice & concepts
 
 <br>
 
-### 🗂️ Other Projects
-
-| Repo | Description |
-|---|---|
-| [Todo-App--Full-Stack](https://github.com/gullFatyma/Todo-App--Full-Stack) | To-do list app — Node.js/Express backend, MongoDB, frontend (MERN) |
-| [Web-Development-Project](https://github.com/gullFatyma/Web-Development-Project) | Web development project |
-| [Clinical-Database-Management-System](https://github.com/gullFatyma/Clinical-Database-Management-System) | Designed a relational database with normalized tables; SQL queries for CRUD operations, joins, and report generation |
-| [Library-Management-System](https://github.com/gullFatyma/Library-Management-System) | Library management system |
-| [Book-Reading-Tracker-App](https://github.com/gullFatyma/Book-Reading-Tracker-App) | Book reading tracker app |
-
-<br>
-
 ### 🌐 Open Source Contribution
 
-[![Repo](https://img.shields.io/badge/hayatian--computing--alumni%2FIndusOS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/hayatian-computing-alumni/IndusOS)
-<br><sub>Contributed to this project (not solely authored)</sub>
+![Contribution](https://img.shields.io/badge/CONTRIBUTOR-E4405F?style=for-the-badge&logo=github&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/hayatian--computing--alumni%2FIndusOS-E4405F?style=flat-square&logo=github&logoColor=white)](https://github.com/hayatian-computing-alumni/IndusOS)
+<sub>Contributed to this project (not solely authored)</sub>
 
 <br>
 
