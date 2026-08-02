@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gull+%F0%9F%91%8B;Aspiring+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MERN;Building+%40CodeWithGull" alt="Typing SVG" />
+# Hi, I'm Gull 👋
+
+**Aspiring Android Developer** · Kotlin · Jetpack Compose · MERN
+Building & teaching via **CodeWithGull** / **GullLearnKotlin**
 
 </div>
 
@@ -113,7 +116,10 @@ Kotlin language practice & concepts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullFatyma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%" />
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
