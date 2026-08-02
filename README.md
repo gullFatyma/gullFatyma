@@ -1,21 +1,10 @@
 <div align="center">
 
+<img src="assets/profile.jpg" width="150" style="border-radius: 50%;" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gull+%F0%9F%91%8B;Aspiring+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+MERN;Building+%40CodeWithGull" alt="Typing SVG" />
 
 </div>
-
-<br>
-
-```kotlin
-class Gull {
-    val role = "CS Student @ University of Gujrat"
-    val focus = "Android Development"
-    val stack = listOf("Kotlin", "Jetpack Compose", "MongoDB", "React", "Node.js")
-    val content = "Teaching Kotlin & Android on CodeWithGull"
-
-    fun currentGoal() = "Ship real Android apps, not just tutorials"
-}
-```
 
 <br>
 
@@ -62,7 +51,7 @@ Android calculator built with XML layouts
 <td width="50%">
 
 **FoodieApp**
-Jetpack Compose food delivery UI — practice build on a Figma design
+Food delivery app UI — Jetpack Compose practice project
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/gullFatyma/FoodieApp)
 
@@ -109,7 +98,7 @@ Kotlin language practice & concepts
 |---|---|
 | [Todo-App--Full-Stack](https://github.com/gullFatyma/Todo-App--Full-Stack) | To-do list app — Node.js/Express backend, MongoDB, frontend (MERN) |
 | [Web-Development-Project](https://github.com/gullFatyma/Web-Development-Project) | Web development project |
-| [Clinical-Database-Management-System](https://github.com/gullFatyma/Clinical-Database-Management-System) | Clinical database management system |
+| [Clinical-Database-Management-System](https://github.com/gullFatyma/Clinical-Database-Management-System) | Designed a relational database with normalized tables; SQL queries for CRUD operations, joins, and report generation |
 | [Library-Management-System](https://github.com/gullFatyma/Library-Management-System) | Library management system |
 | [Book-Reading-Tracker-App](https://github.com/gullFatyma/Book-Reading-Tracker-App) | Book reading tracker app |
 
@@ -122,16 +111,11 @@ Kotlin language practice & concepts
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gullFatyma&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7F52FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullFatyma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="30%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gullFatyma&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=7F52FF&currStreakLabel=58A6FF" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullFatyma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%" />
 
 </div>
 
