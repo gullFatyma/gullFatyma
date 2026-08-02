@@ -1,0 +1,64 @@
+<svg width="800" height="330" viewBox="0 0 800 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#BC8CFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="0" y="0" width="800" height="330" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="800" height="42" rx="14" fill="#161B22"/>
+  <rect x="0" y="28" width="800" height="14" fill="#161B22"/>
+  <circle cx="28" cy="21" r="6.5" fill="#FF5F56"/>
+  <circle cx="50" cy="21" r="6.5" fill="#FFBD2E"/>
+  <circle cx="72" cy="21" r="6.5" fill="#27C93F"/>
+  <text x="400" y="26" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="13" fill="#8B949E">gull.kt</text>
+
+  <!-- line numbers -->
+  <text x="20" y="75"  font-family="Consolas, monospace" font-size="14" fill="#484F58">1</text>
+  <text x="20" y="103" font-family="Consolas, monospace" font-size="14" fill="#484F58">2</text>
+  <text x="20" y="131" font-family="Consolas, monospace" font-size="14" fill="#484F58">3</text>
+  <text x="20" y="159" font-family="Consolas, monospace" font-size="14" fill="#484F58">4</text>
+  <text x="20" y="187" font-family="Consolas, monospace" font-size="14" fill="#484F58">5</text>
+  <text x="20" y="215" font-family="Consolas, monospace" font-size="14" fill="#484F58">6</text>
+  <text x="20" y="243" font-family="Consolas, monospace" font-size="14" fill="#484F58">7</text>
+  <text x="20" y="271" font-family="Consolas, monospace" font-size="14" fill="#484F58">8</text>
+  <text x="20" y="299" font-family="Consolas, monospace" font-size="14" fill="#484F58">9</text>
+
+  <!-- code -->
+  <text x="50" y="75" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">class</tspan><tspan fill="#D2A8FF"> GullFatima</tspan><tspan fill="#C9D1D9"> {</tspan>
+  </text>
+
+  <text x="70" y="103" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">val</tspan><tspan fill="#79C0FF"> role</tspan><tspan fill="#C9D1D9"> = </tspan><tspan fill="#A5D6FF">"Android Developer in progress"</tspan>
+  </text>
+
+  <text x="70" y="131" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">val</tspan><tspan fill="#79C0FF"> university</tspan><tspan fill="#C9D1D9"> = </tspan><tspan fill="#A5D6FF">"University of Gujrat"</tspan>
+  </text>
+
+  <text x="70" y="159" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">val</tspan><tspan fill="#79C0FF"> stack</tspan><tspan fill="#C9D1D9"> = </tspan><tspan fill="#FFA657">listOf</tspan><tspan fill="#C9D1D9">(</tspan><tspan fill="#A5D6FF">"Kotlin"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"Jetpack Compose"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"MERN"</tspan><tspan fill="#C9D1D9">)</tspan>
+  </text>
+
+  <text x="70" y="187" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">val</tspan><tspan fill="#79C0FF"> content</tspan><tspan fill="#C9D1D9"> = </tspan><tspan fill="#A5D6FF">"CodeWithGull · GullLearnKotlin"</tspan>
+  </text>
+
+  <text x="70" y="222" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#FF7B72">fun</tspan><tspan fill="#D2A8FF"> currentGoal</tspan><tspan fill="#C9D1D9">()</tspan><tspan fill="#FF7B72"> = </tspan>
+  </text>
+  <text x="70" y="250" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#A5D6FF">    "Ship real Android apps, not just tutorials"</tspan>
+  </text>
+
+  <text x="50" y="278" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16">
+    <tspan fill="#C9D1D9">}</tspan>
+  </text>
+
+  <text x="50" y="308" font-family="Consolas, 'JetBrains Mono', monospace" font-size="16" fill="url(#glow)" font-weight="bold">// Hi, I'm Gull 👋</text>
+</svg>
