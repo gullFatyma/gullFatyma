@@ -137,6 +137,17 @@ Book reading tracker app
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+![Android](https://img.shields.io/badge/ANDROID-7F52FF?style=for-the-badge&logo=android&logoColor=white)
+#### JetPack-Compose-Practice
+Component-by-component Jetpack Compose practice repo — layouts, dialogs, navigation, pickers, and more
+
+[![View Repo](https://img.shields.io/badge/View_Repo-7F52FF?style=flat-square&logo=github&logoColor=white)](https://github.com/gullFatyma/JetPack-Compose-Practice)
+
+</td>
+</tr>
 </table>
 
 <br>
